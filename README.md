@@ -9,12 +9,12 @@
 
 - Vorlesung: Do 14:15-15:45 (Axel Wisiorek), Raum: BU101 (Oettingstr. 67)
 
-- Tutorium: folgt (Jingwen Xu), Raum: folgt
+- Tutorium: folgt (Jingwen Xu)
 
 
 ## Moodle-Kursseite:
 
-folgt
+https://moodle.lmu.de/course/view.php?id=45509
 
 - Die Anmeldung in Moodle ist verpflichtend (Moodle dient als Kommunikations- und Verwaltungsplattform).
 - **der Moodle-Einschreibeschlüssel wird per LSF-Rundmail bekanntgegeben**
