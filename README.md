@@ -9,7 +9,7 @@
 
 - Vorlesung: Do 14:15-15:45 (Axel Wisiorek), Raum: BU101 (Oettingstr. 67)
 
-- Tutorium: folgt (Jingwen Xu)
+- Tutorium: Do 16:15-17:45, via Zoom (Jingwen Xu)
 
 
 ## Moodle-Kursseite:
